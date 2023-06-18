@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/malda-online-cart/static/css/main.edfe2858.css",
+    "main.js": "/malda-online-cart/static/js/main.e213d3b9.js",
+    "index.html": "/malda-online-cart/index.html",
+    "main.edfe2858.css.map": "/malda-online-cart/static/css/main.edfe2858.css.map",
+    "main.e213d3b9.js.map": "/malda-online-cart/static/js/main.e213d3b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfe2858.css",
+    "static/js/main.e213d3b9.js"
+  ]
+}
